@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- These are the options displayed in the rank drop-down Spinner -->
+    <string-array name="array_rank_options">
+        <item>@string/rank_unknown</item>
+        <item>@string/rank_good</item>
+        <item>@string/rank_bad</item>
+    </string-array>
+</resources>
